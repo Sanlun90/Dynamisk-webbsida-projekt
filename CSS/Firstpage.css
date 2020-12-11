@@ -28,7 +28,14 @@
     text-align: center;
     width: fit-content;
 }
+<<<<<<< HEAD
 .slide{
 text-align: center;
 margin-top: 20px;
 }
+=======
+.slide {
+  text-align: center;
+  margin-top: 20px;
+}
+>>>>>>> new
